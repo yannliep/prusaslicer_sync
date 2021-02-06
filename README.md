@@ -1,2 +1,2 @@
-# prusaslicer_sync
-Prusa Slicer synchronization tool
+# slicer_tools
+Slicer tools
